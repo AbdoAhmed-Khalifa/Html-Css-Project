@@ -161,7 +161,7 @@ body {
 /* end header roles */
 /* Start landing roles */
 .landing {
-  background-image: url(./images/chris-herath-FcvIlm3I2Ts-unsplash.jpg);
+  background-image: url(../images/chris-herath-FcvIlm3I2Ts-unsplash.jpg);
   background-size: cover;
   height: calc(100vh - 64px);
 }
